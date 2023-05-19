@@ -1,0 +1,15 @@
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.csproj.AssemblyReference.cache
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.AssemblyInfoInputs.cache
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.AssemblyInfo.cs
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.csproj.CoreCompileInputs.cache
+/workspaces/Project_Poo_faculty/bin/Debug/net7.0/Project_Poo_faculty
+/workspaces/Project_Poo_faculty/bin/Debug/net7.0/Project_Poo_faculty.deps.json
+/workspaces/Project_Poo_faculty/bin/Debug/net7.0/Project_Poo_faculty.runtimeconfig.json
+/workspaces/Project_Poo_faculty/bin/Debug/net7.0/Project_Poo_faculty.dll
+/workspaces/Project_Poo_faculty/bin/Debug/net7.0/Project_Poo_faculty.pdb
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.dll
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/refint/Project_Poo_faculty.dll
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.pdb
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/Project_Poo_faculty.genruntimeconfig.cache
+/workspaces/Project_Poo_faculty/obj/Debug/net7.0/ref/Project_Poo_faculty.dll
